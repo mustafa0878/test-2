@@ -1,0 +1,65 @@
+body{
+    height: 100vh;
+}
+
+.text{
+    width: 100%;
+    display: flex;
+    justify-content:end ;
+    gap: 25px;
+}
+
+.button{
+    padding: 10px 10px;
+    background-color:green;
+    color: white;
+    border: none;
+    box-shadow: 0px 0px 5px greenyellow;
+    cursor: pointer;
+}
+.input_1>input{
+    padding: 10px 10px;
+    border: none;
+    box-shadow: 0px 0px 5px rgb(187, 185, 185);
+
+}
+.b_1{
+padding: 10px 10px;
+    background-color:green;
+    color: white;
+    border: none;
+    box-shadow: 0px 0px 5px greenyellow;
+    cursor: pointer;
+}
+.icon_1{
+    height: 50px;
+}
+.ul_main{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+
+}
+.ul_1{
+    width: 18rem;
+    box-shadow: 0px 0px 5px rgb(201, 198, 198);
+    border-left: 2px solid gray;
+
+}
+.ul_1{
+    list-style: none;
+    padding: 15px 4px;
+}
+.ul_1>li{
+    padding: 18px 0px;
+}
+.li_1{
+   
+}
+.m_1{
+    padding:20px 0px;
+    height: 50%;
+}
+.y_1{
+    height: 200px;
+}
